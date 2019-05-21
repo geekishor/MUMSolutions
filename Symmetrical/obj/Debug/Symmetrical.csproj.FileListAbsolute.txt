@@ -1,0 +1,5 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Symmetrical\bin\Debug\Symmetrical.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Symmetrical\bin\Debug\Symmetrical.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Symmetrical\bin\Debug\Symmetrical.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Symmetrical\obj\Debug\Symmetrical.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Symmetrical\obj\Debug\Symmetrical.pdb

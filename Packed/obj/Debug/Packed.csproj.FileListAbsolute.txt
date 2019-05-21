@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Packed\bin\Debug\Packed.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Packed\bin\Debug\Packed.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Packed\bin\Debug\Packed.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Packed\obj\Debug\Packed.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Packed\obj\Debug\Packed.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Packed\obj\Debug\Packed.pdb

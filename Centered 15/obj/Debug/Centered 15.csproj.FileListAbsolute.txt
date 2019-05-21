@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Centered 15\bin\Debug\Centered 15.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Centered 15\bin\Debug\Centered 15.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Centered 15\bin\Debug\Centered 15.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Centered 15\obj\Debug\Centered 15.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Centered 15\obj\Debug\Centered 15.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Centered 15\obj\Debug\Centered 15.pdb

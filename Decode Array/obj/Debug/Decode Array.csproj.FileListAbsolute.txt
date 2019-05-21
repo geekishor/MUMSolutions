@@ -1,0 +1,5 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Decode Array\bin\Debug\Decode Array.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Decode Array\bin\Debug\Decode Array.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Decode Array\bin\Debug\Decode Array.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Decode Array\obj\Debug\Decode Array.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Decode Array\obj\Debug\Decode Array.pdb

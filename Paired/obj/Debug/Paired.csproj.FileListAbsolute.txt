@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Paired\bin\Debug\Paired.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Paired\bin\Debug\Paired.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Paired\bin\Debug\Paired.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Paired\obj\Debug\Paired.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Paired\obj\Debug\Paired.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Paired\obj\Debug\Paired.pdb

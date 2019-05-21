@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\Meera Array\bin\Debug\Meera Array.exe.config
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\Meera Array\bin\Debug\Meera Array.exe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\Meera Array\bin\Debug\Meera Array.pdb
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\Meera Array\obj\Debug\Meera Array.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\Meera Array\obj\Debug\Meera Array.exe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\Meera Array\obj\Debug\Meera Array.pdb

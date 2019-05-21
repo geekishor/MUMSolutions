@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Guthrie Sequence\bin\Debug\Guthrie Sequence.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Guthrie Sequence\bin\Debug\Guthrie Sequence.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Guthrie Sequence\bin\Debug\Guthrie Sequence.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Guthrie Sequence\obj\Debug\Guthrie Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Guthrie Sequence\obj\Debug\Guthrie Sequence.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Guthrie Sequence\obj\Debug\Guthrie Sequence.pdb

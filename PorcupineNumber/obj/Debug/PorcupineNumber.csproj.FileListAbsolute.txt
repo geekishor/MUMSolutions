@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\PorcupineNumber\bin\Debug\PorcupineNumber.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\PorcupineNumber\bin\Debug\PorcupineNumber.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\PorcupineNumber\bin\Debug\PorcupineNumber.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\PorcupineNumber\obj\Debug\PorcupineNumber.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\PorcupineNumber\obj\Debug\PorcupineNumber.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\PorcupineNumber\obj\Debug\PorcupineNumber.pdb

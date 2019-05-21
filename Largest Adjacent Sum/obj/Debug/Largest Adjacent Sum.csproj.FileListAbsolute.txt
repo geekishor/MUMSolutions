@@ -1,0 +1,5 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Adjacent Sum\bin\Debug\Largest Adjacent Sum.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Adjacent Sum\bin\Debug\Largest Adjacent Sum.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Adjacent Sum\bin\Debug\Largest Adjacent Sum.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Adjacent Sum\obj\Debug\Largest Adjacent Sum.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Adjacent Sum\obj\Debug\Largest Adjacent Sum.pdb

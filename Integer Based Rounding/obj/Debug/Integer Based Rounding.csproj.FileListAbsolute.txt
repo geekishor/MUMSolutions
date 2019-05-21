@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Integer Based Rounding\bin\Debug\Integer Based Rounding.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Integer Based Rounding\bin\Debug\Integer Based Rounding.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Integer Based Rounding\bin\Debug\Integer Based Rounding.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Integer Based Rounding\obj\Debug\Integer Based Rounding.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Integer Based Rounding\obj\Debug\Integer Based Rounding.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Integer Based Rounding\obj\Debug\Integer Based Rounding.pdb

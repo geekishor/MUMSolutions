@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Get Exponent\bin\Debug\Get Exponent.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Get Exponent\bin\Debug\Get Exponent.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Get Exponent\bin\Debug\Get Exponent.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Get Exponent\obj\Debug\Get Exponent.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Get Exponent\obj\Debug\Get Exponent.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Get Exponent\obj\Debug\Get Exponent.csprojResolveAssemblyReference.cache

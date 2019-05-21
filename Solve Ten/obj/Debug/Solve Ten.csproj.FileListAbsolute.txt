@@ -1,0 +1,5 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Solve Ten\bin\Debug\Solve Ten.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Solve Ten\bin\Debug\Solve Ten.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Solve Ten\bin\Debug\Solve Ten.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Solve Ten\obj\Debug\Solve Ten.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Solve Ten\obj\Debug\Solve Ten.pdb

@@ -1,6 +1,6 @@
-c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\bin\Debug\IsInertial.exe.config
-c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\bin\Debug\IsInertial.exe
-c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\bin\Debug\IsInertial.pdb
-c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\obj\Debug\IsInertial.csprojResolveAssemblyReference.cache
-c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\obj\Debug\IsInertial.exe
-c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\obj\Debug\IsInertial.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\bin\Debug\IsInertial.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\bin\Debug\IsInertial.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\bin\Debug\IsInertial.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\obj\Debug\IsInertial.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\obj\Debug\IsInertial.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\IsInertial\obj\Debug\IsInertial.pdb

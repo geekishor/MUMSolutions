@@ -1,0 +1,5 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Factor Two Count 2\bin\Debug\Factor Two Count 2.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Factor Two Count 2\bin\Debug\Factor Two Count 2.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Factor Two Count 2\bin\Debug\Factor Two Count 2.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Factor Two Count 2\obj\Debug\Factor Two Count 2.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Factor Two Count 2\obj\Debug\Factor Two Count 2.pdb

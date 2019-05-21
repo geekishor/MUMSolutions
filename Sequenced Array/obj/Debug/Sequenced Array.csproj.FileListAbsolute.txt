@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequenced Array\bin\Debug\Sequenced Array.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequenced Array\bin\Debug\Sequenced Array.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequenced Array\bin\Debug\Sequenced Array.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequenced Array\obj\Debug\Sequenced Array.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequenced Array\obj\Debug\Sequenced Array.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequenced Array\obj\Debug\Sequenced Array.pdb

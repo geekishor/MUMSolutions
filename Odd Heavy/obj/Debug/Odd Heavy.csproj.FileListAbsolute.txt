@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Odd Heavy\bin\Debug\Odd Heavy.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Odd Heavy\bin\Debug\Odd Heavy.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Odd Heavy\bin\Debug\Odd Heavy.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Odd Heavy\obj\Debug\Odd Heavy.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Odd Heavy\obj\Debug\Odd Heavy.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Odd Heavy\obj\Debug\Odd Heavy.csprojResolveAssemblyReference.cache

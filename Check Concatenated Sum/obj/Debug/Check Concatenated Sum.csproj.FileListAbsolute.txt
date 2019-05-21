@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Check Concatenated Sum\bin\Debug\Check Concatenated Sum.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Check Concatenated Sum\bin\Debug\Check Concatenated Sum.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Check Concatenated Sum\bin\Debug\Check Concatenated Sum.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Check Concatenated Sum\obj\Debug\Check Concatenated Sum.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Check Concatenated Sum\obj\Debug\Check Concatenated Sum.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Check Concatenated Sum\obj\Debug\Check Concatenated Sum.pdb

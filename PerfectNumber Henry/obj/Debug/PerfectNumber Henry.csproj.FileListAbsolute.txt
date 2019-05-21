@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\PerfectNumber Henry\bin\Debug\PerfectNumber Henry.exe.config
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\PerfectNumber Henry\bin\Debug\PerfectNumber Henry.exe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\PerfectNumber Henry\bin\Debug\PerfectNumber Henry.pdb
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\PerfectNumber Henry\obj\Debug\PerfectNumber Henry.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\PerfectNumber Henry\obj\Debug\PerfectNumber Henry.exe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\PerfectNumber Henry\obj\Debug\PerfectNumber Henry.pdb

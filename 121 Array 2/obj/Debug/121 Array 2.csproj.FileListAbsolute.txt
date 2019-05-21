@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\121 Array 2\bin\Debug\121 Array 2.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\121 Array 2\bin\Debug\121 Array 2.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\121 Array 2\bin\Debug\121 Array 2.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\121 Array 2\obj\Debug\121 Array 2.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\121 Array 2\obj\Debug\121 Array 2.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\121 Array 2\obj\Debug\121 Array 2.pdb

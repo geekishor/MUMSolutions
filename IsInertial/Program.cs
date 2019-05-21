@@ -10,6 +10,7 @@ namespace IsInertial
     {
         internal static List<int> odd;
         internal static List<int> even;
+
         static void Main(string[] args)
         {
             Console.WriteLine(isInertial(new int[] { 1 }));
@@ -24,12 +25,13 @@ namespace IsInertial
 
             Console.ReadLine();
         }
+
         public static int isInertial(int[] arr)
         {
             try
             {
                 bool containsOdd = containsOddValue(arr);
-                int checkInertialCount = 0;
+                //int checkInertialCount = 0;
                 int[] oddArr = { };
                 int[] evenArr = { };
                 if (containsOdd)
@@ -66,24 +68,28 @@ namespace IsInertial
 
                         if (minOdd > maxEven)
                         {
-                            for (int i = 0; i < oddArr.Length; i++)
+                            if (oddArr.Max() < max)
                             {
-                                if (oddArr[i] < max)
-                                {
-                                    checkInertialCount++;
-                                }
+                                return 1;
                             }
+                            //for (int i = 0; i < oddArr.Length; i++)
+                            //{
+                            //    if (oddArr[i] < max)
+                            //    {
+                            //        checkInertialCount++;
+                            //    }
+                            //}
                             //do someting
                         }
 
-                        if (checkInertialCount == oddArr.Length)
-                        {
-                            return 1;
-                        }
-                        else
-                        {
-                            return 0;
-                        }
+                        //if (checkInertialCount == oddArr.Length)
+                        //{
+                        //    return 1;
+                        //}
+                        //else
+                        //{
+                        //    return 0;
+                        //}
                     }
                 }
                 return 0;
@@ -97,45 +103,27 @@ namespace IsInertial
 
         public static bool containsOddValue(int[] arr)
         {
-            int count = 0;
             for (int i = 0; i < arr.Length; i++)
             {
                 if (arr[i] % 2 == 1)
                 {
-                    count++;
-                    break;
+                    return true;
                 }
             }
-            if (count == 0)
-            {
-                return false;
-            }
-            else
-            {
-                return true;
-            }
+            return false;
         }
 
         public static bool isMaximumEven(int[] arr)
         {
-            bool isMaxEven = false;
             for (int i = 0; i < arr.Length; i++)
             {
                 int max = arr.Max();
                 if (max % 2 == 0)
                 {
-                    isMaxEven = true;
-                    break;
+                    return true;
                 }
             }
-            if (isMaxEven)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return false;
         }
 
         public static void splitOddEvenArray(int[] arr)

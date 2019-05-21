@@ -1,0 +1,5 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Good Spreading 2\bin\Debug\Good Spreading 2.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Good Spreading 2\bin\Debug\Good Spreading 2.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Good Spreading 2\bin\Debug\Good Spreading 2.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Good Spreading 2\obj\Debug\Good Spreading 2.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Good Spreading 2\obj\Debug\Good Spreading 2.pdb

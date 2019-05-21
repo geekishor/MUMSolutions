@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Stuff Array\bin\Debug\Stuff Array.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Stuff Array\bin\Debug\Stuff Array.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Stuff Array\bin\Debug\Stuff Array.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Stuff Array\obj\Debug\Stuff Array.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Stuff Array\obj\Debug\Stuff Array.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Stuff Array\obj\Debug\Stuff Array.csprojResolveAssemblyReference.cache

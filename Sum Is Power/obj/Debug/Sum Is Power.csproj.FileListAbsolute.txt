@@ -1,0 +1,5 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power\bin\Debug\Sum Is Power.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power\bin\Debug\Sum Is Power.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power\bin\Debug\Sum Is Power.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power\obj\Debug\Sum Is Power.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power\obj\Debug\Sum Is Power.pdb

@@ -1,0 +1,6 @@
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\SquarePair\bin\Debug\SquarePair.exe.config
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\SquarePair\bin\Debug\SquarePair.exe
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\SquarePair\bin\Debug\SquarePair.pdb
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\SquarePair\obj\Debug\SquarePair.exe
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\IsInertial\SquarePair\obj\Debug\SquarePair.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\SquarePair\obj\Debug\SquarePair.csprojResolveAssemblyReference.cache

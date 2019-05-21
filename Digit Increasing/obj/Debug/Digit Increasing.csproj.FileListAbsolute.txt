@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Digit Increasing\bin\Debug\Digit Increasing.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Digit Increasing\bin\Debug\Digit Increasing.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Digit Increasing\bin\Debug\Digit Increasing.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Digit Increasing\obj\Debug\Digit Increasing.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Digit Increasing\obj\Debug\Digit Increasing.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Digit Increasing\obj\Debug\Digit Increasing.pdb

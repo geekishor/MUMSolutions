@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Pascal Number\bin\Debug\Pascal Number.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Pascal Number\bin\Debug\Pascal Number.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Pascal Number\bin\Debug\Pascal Number.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Pascal Number\obj\Debug\Pascal Number.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Pascal Number\obj\Debug\Pascal Number.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Pascal Number\obj\Debug\Pascal Number.csprojResolveAssemblyReference.cache

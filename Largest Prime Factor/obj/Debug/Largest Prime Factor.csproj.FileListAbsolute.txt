@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Prime Factor\bin\Debug\Largest Prime Factor.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Prime Factor\bin\Debug\Largest Prime Factor.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Prime Factor\bin\Debug\Largest Prime Factor.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Prime Factor\obj\Debug\Largest Prime Factor.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Prime Factor\obj\Debug\Largest Prime Factor.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Largest Prime Factor\obj\Debug\Largest Prime Factor.pdb

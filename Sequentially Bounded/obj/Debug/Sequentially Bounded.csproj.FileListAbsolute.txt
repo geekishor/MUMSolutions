@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequentially Bounded\bin\Debug\Sequentially Bounded.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequentially Bounded\bin\Debug\Sequentially Bounded.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequentially Bounded\bin\Debug\Sequentially Bounded.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequentially Bounded\obj\Debug\Sequentially Bounded.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequentially Bounded\obj\Debug\Sequentially Bounded.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sequentially Bounded\obj\Debug\Sequentially Bounded.pdb

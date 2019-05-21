@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\ZeroPlentiful\bin\Debug\ZeroPlentiful.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\ZeroPlentiful\bin\Debug\ZeroPlentiful.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\ZeroPlentiful\bin\Debug\ZeroPlentiful.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\ZeroPlentiful\obj\Debug\ZeroPlentiful.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\ZeroPlentiful\obj\Debug\ZeroPlentiful.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\ZeroPlentiful\obj\Debug\ZeroPlentiful.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Cube Powerful\bin\Debug\Cube Powerful.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Cube Powerful\bin\Debug\Cube Powerful.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Cube Powerful\bin\Debug\Cube Powerful.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Cube Powerful\obj\Debug\Cube Powerful.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Cube Powerful\obj\Debug\Cube Powerful.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Cube Powerful\obj\Debug\Cube Powerful.csprojResolveAssemblyReference.cache

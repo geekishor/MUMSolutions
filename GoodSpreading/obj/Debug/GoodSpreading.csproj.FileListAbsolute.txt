@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\GoodSpreading\bin\Debug\GoodSpreading.exe.config
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\GoodSpreading\bin\Debug\GoodSpreading.exe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\GoodSpreading\bin\Debug\GoodSpreading.pdb
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\GoodSpreading\obj\Debug\GoodSpreading.exe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\IsInertial\GoodSpreading\obj\Debug\GoodSpreading.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\GoodSpreading\obj\Debug\GoodSpreading.csprojResolveAssemblyReference.cache

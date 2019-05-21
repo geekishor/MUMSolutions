@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power 2\bin\Debug\Sum Is Power 2.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power 2\bin\Debug\Sum Is Power 2.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power 2\bin\Debug\Sum Is Power 2.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power 2\obj\Debug\Sum Is Power 2.csprojResolveAssemblyReference.cache
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power 2\obj\Debug\Sum Is Power 2.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Sum Is Power 2\obj\Debug\Sum Is Power 2.pdb

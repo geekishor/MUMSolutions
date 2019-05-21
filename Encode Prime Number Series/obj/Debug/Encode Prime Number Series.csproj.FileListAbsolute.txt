@@ -1,0 +1,6 @@
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Encode Prime Number Series\bin\Debug\Encode Prime Number Series.exe.config
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Encode Prime Number Series\bin\Debug\Encode Prime Number Series.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Encode Prime Number Series\bin\Debug\Encode Prime Number Series.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Encode Prime Number Series\obj\Debug\Encode Prime Number Series.exe
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Encode Prime Number Series\obj\Debug\Encode Prime Number Series.pdb
+C:\Users\Kishor Bikram Oli\documents\visual studio 2015\Projects\IsInertial\Encode Prime Number Series\obj\Debug\Encode Prime Number Series.csprojResolveAssemblyReference.cache
